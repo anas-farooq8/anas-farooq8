@@ -28,7 +28,7 @@
 const anas = {
     name: "Muhammad Anas Farooq",
     location: "Wah Cantt, Pakistan 🇵🇰",
-    education: "BS Computer Science Graduate (CGPA: 3.6/4)",
+    education: "BS Computer Science Graduate (CGPA: 3.59/4)",
     university: "National University of Computer and Emerging Sciences",
     role: "AI & Automation Engineer",
     interests: ["Artificial Intelligence", "Automation", "Computer Vision"],
