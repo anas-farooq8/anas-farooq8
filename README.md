@@ -119,14 +119,6 @@ const anas = {
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <h3>🏆 GitHub Profile Trophy</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=anas-farooq8&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1"/>
-</div>
-
-<br>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anas-farooq8&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-farooq8&theme=radical" alt="anas-farooq8" />
