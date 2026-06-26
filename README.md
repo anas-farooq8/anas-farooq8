@@ -121,10 +121,6 @@ const anas = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=anas-farooq8&theme=radical" alt="anas-farooq8" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anas-farooq8&theme=radical&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
